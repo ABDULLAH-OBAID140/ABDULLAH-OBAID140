@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ABDULLAH-OBAID140
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+للحصول على تطوير المواقع والمنتديات يرجى الاتصال بنا على الرقم 00967772911726
+<!---
+ABDULLAH-OBAID140/ABDULLAH-OBAID140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
